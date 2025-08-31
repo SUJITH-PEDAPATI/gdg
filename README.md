@@ -1,2 +1,2 @@
-# gdg
+# GDG
 Some worshop based on the git and github
